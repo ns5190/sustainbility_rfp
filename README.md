@@ -1,4 +1,4 @@
-# Arduino Enviornmental Sensor Testing
+# Arduino Environmental Sensor Testing
 
 This repository contains Arduino sketches for various environmental and gas sensors, plus a PDF with notes from testing and error logs.
 
